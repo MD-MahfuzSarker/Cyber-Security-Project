@@ -10,8 +10,9 @@
 ```
 Cyber Security Project/   
 └── Project/
-    ├── Exploit.pdf/                            ← Exploitation
-    └── Vulnerability Identification.pdf/       ← Vulnerability Identification
+    ├── Exploit.pdf/                                                 ← Exploitation
+    ├── Vulnerability Identification.pdf/                            ← Vulnerability Identification
+    └── Web Application Report of Reconnaissance.pdf/                ←Web Application Report of Reconnaissance
 ```
 ---
 
