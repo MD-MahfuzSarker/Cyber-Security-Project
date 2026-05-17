@@ -8,25 +8,35 @@
 
 ### Repository Workflow
 ```
-CADS-003/
-│
-├── excel/
-│   ├── 00000/          ← 000000000
-│   ├── 00000/          ← 000000000
-│   └── README.md
-│
-├── images/
-│   ├── 00000/          ← 000000000
-│   ├── 00000/         ← 000000000
-│   └── README.md
-│
-├── report/
-│   ├──00000/         ← 000000000
-│   ├── 00000/         ← 000000000
-│   └── README.md
-└── slides/
-    ├──00000/         ← 000000000
-    ├── 00000/         ← 000000000
-    └── README.md
+Cyber Security Project/   
+└── Project/
+    ├── Exploit.pdf/                            ← Exploitation
+    └── Vulnerability Identification.pdf/       ← Vulnerability Identification
 ```
 ---
+
+## Topics Covered
+- Web Reconnaissance
+- Network Enumeration
+- Metasploit Framework
+- Hydra
+- Wireshark Analysis
+- Password Hash Analysis
+- ARP & FTP Traffic Analysis
+
+
+## Tools Used
+- Kali Linux
+- Metasploit
+- Hydra
+- Wireshark
+- John the Ripper
+- Nmap
+
+
+## Disclaimer
+This repository is for educational and ethical learning purposes only.
+
+
+## Author
+[MD. MAHFUZ SARKER MAHI](https://github.com/MD-MahfuzSarker)
